@@ -10,5 +10,3 @@
   
 👨‍💻 Full-Stack Software Developer [@codxitlabs](https://github.com/codxitlabs)
 🚧 **Current Project:** [AIMapping](https://github.com/)
-
-⭐️ From [mirankavinda](https://github.com/mirankavinda)
