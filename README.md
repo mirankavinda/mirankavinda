@@ -9,5 +9,3 @@
   
 👨‍💻 Full-Stack Software Developer [@codxitlabs](https://github.com/codxitlabs)
 🚧 **Current Project:** [AIMapping](https://github.com/)
-
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=mirankavinda&layout=compact&bg_color=0d1117&title_color=FFFFFF&text_color=blue)
